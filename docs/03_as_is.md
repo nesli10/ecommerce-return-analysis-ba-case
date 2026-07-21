@@ -33,3 +33,7 @@ Mevcut süreçte iade ve iptal oranlarının artmasına neden olan problemlerin 
 Özellikle lojistik süreçler, ürün bilgisi ve veri kalitesi gibi farklı alanlarda yaşanan aksaklıklar, müşteri deneyimini doğrudan etkilemektedir.
 
 Ayrıca, mevcut verilerin düzenli analiz edilmemesi, problemlerin erken tespit edilmesini zorlaştırmakta ve iyileştirme süreçlerini geciktirmektedir.
+
+## Süreç Diyagramı
+
+![As-Is Flow](../docs/diagrams/AS-IS-FLOW.png)
