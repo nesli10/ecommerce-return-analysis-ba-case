@@ -32,4 +32,8 @@
 - Müşteri memnuniyetinde artış  
 - Operasyonel süreçlerin daha verimli hale gelmesi  
 - Veri kalitesinin artması ile daha doğru analiz yapılabilmesi  
-- Karar alma süreçlerinin veri ile desteklenmesi  
+- Karar alma süreçlerinin veri ile desteklenmesi
+
+## Hedef Süreç Diyagramı
+
+![To-Be Flow](../docs/diagrams/TO-BE-FLOW.png)
